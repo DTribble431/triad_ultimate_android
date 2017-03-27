@@ -1,0 +1,15 @@
+Colors:
+
+#FE5F55 //animations
+#F0B67F	//hover
+#F0F8EA //text
+#77A6B6 //backgrounds or navigations
+#D6D4B4 //visited links
+
+Fonts
+
+//still working on this
+
+Logos
+
+//Came up with a good concept for banner and square. Just need to design it.
