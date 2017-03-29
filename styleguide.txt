@@ -7,6 +7,9 @@ Colors:
 #D6D4B4 //visited links
 
 Fonts
+Open Sans //h1, main
+Rubic //h3
+Lato //navigation
 
 //still working on this
 
